@@ -1,2 +1,2 @@
-# Katas
+# Katas OnBoarding
 Katas de LaunchX
